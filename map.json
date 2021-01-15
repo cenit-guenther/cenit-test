@@ -97,7 +97,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.cenit.com\/"
+                 "value":"https:\/\/www.zeit.de\/index"
                 }],
          "type":"tilelayer",
          "visible":true,
